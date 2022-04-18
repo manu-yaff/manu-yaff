@@ -1,5 +1,11 @@
 ### Hi there 👋
+
+
+Student graduating in June 2022. I have around 2 years of web development industry experiencie working in agile teams.
+
 - Gitlab: https://gitlab.com/Yaf98
+- Linkedin: https://www.linkedin.com/in/manuel-yafte/
+
 <!--
 **Yaf98/Yaf98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
