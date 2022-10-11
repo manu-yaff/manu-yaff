@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mobile development with flutter**
 
-- 🌱 I’m currently learning **React, Advanced Js and Frontend stuff**
+- 🌱 I’m currently mastering **React, Advanced Js and Frontend stuff**
 
 - ⚡ Fun fact **I like to play tennis**
 
