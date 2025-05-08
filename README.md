@@ -6,17 +6,7 @@ That experience taught me to be a product-minded engineer who takes ownership. I
 
 I'm interested in teams with a strong engineering culture—where people are kind, have fun, and build great products together. Open to fullstack or backend roles
 
-Main skills include:
-- Javascript
-- Typescript
-- Node
-- RESTful APIs (Nestjs)
-- React.js
-- Agile
-- AWS
-- Postgresql
-- Jest
-- Python
+Main skills include: Javascript, Typescript, Node, RESTful APIs (Nestjs), React.js, Postgresql, AWS, Jest, Python, Agile, etc.
 
 Also interested in working professionally with Golang
 
