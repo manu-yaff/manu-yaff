@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**manu-yaff/manu-yaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a versatile software engineer with 3 years of experience, mostly working across the stack with JavaScript, TypeScript, Node (Nestjs), and React. I have a CS degree, but most of what I’ve learned has come from building real products in fast-paced, early-stage startups.
 
-Here are some ideas to get you started:
+That experience taught me to be a product-minded engineer who takes ownership. I’ve built products used by 100k+ monthly users, improved performance, and contributed to growing company revenues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in teams with a strong engineering culture—where people are kind, have fun, and build great products together. Open to fullstack or backend roles
+
+Main skills include:
+- Javascript
+- Typescript
+- Node
+- RESTful APIs (Nestjs)
+- React.js
+- Agile
+- AWS
+- Postgresql
+- Jest
+- Python
+
+Also interested in working professionally with Golang
+
+And I love tennis btw 🎾
